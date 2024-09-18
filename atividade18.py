@@ -2,5 +2,5 @@
 
 numero = 1
 
-for numero in range (1, 10):
+for numero in range (1, 11):
     print(numero)
